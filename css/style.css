@@ -29,7 +29,7 @@ li{
 li a{
   display: block;
   padding: 15px 20px;
-/*   color: #FFFFFF; */
+  color: #FFFFFF;
   text-decoration: none;
 }
 /* 設定滑鼠滑過連結時的效果: */
