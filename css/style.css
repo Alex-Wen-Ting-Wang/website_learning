@@ -35,3 +35,8 @@ li a{
 li a:hover{
   color: #FFC90E;
 }
+#content_in{
+  padding: 30px 50px;
+  text-align: center;
+  background-color: #F4F4ED;
+}
