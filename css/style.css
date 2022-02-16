@@ -51,7 +51,7 @@ margin-bottom: 20px;
 }
 #content_in ul li{
 display: block;
-/* width: 130px; */
+width: auto;
 height: 40px;
 line-height: 40px;
 margin: 0 auto;
